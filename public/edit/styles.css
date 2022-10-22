@@ -1,0 +1,31 @@
+#contents {
+  margin-top: 82px;
+}
+
+footer {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.po {
+  cursor: pointer;
+}
+
+.edit-original {
+  display: block;
+  max-width: 350px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cc-flag {
+  display: inline-block;
+  height: 24px;
+}
+
+.loader,
+.toast-cont,
+.position-fixed.bottom-0.p-2.m-4.end-0.align-items-center {
+  z-index: 1061;
+}
